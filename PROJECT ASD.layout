@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="GRAPHE.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="287" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="418" topLine="5" />
+		</Cursor>
+	</File>
+	<File name="GRAPHE.c" open="1" top="1" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="27957" topLine="705" />
+		</Cursor>
+		<Folding>
+			<Collapse line="33" />
+			<Collapse line="47" />
+			<Collapse line="65" />
+			<Collapse line="115" />
+			<Collapse line="147" />
+			<Collapse line="216" />
+			<Collapse line="277" />
+			<Collapse line="324" />
+		</Folding>
+	</File>
+	<File name="ELTUSER.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2278" topLine="57" />
+		</Cursor>
+	</File>
+	<File name="ELTUSER.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="LISTE.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="80" topLine="1" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

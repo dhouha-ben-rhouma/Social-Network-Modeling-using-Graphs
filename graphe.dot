@@ -1,0 +1,17 @@
+graph G {
+  node [shape=ellipse, style=filled, fillcolor=skyblue, fontcolor=black, fontname="Arial Bold"];
+  edge [penwidth=1.5, fontcolor=black, fontname="Arial"];
+  0 [label="ahmed"];
+  0 -- 1 [label="55", color=red];
+  1 [label="ines"];
+  2 [label="mohamed"];
+  2 -- 3 [label="4", color=green];
+  2 -- 7 [label="20", color=orange];
+  3 [label="hana"];
+  4 [label="sami"];
+  7 [label="dhouha"];
+  7 -- 50 [label="800", color=red];
+  7 -- 773 [label="55", color=red];
+  773 [label="Abir"];
+  50 [label="ISGT"];
+}

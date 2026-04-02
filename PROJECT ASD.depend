@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1745280227 source:f:\bussiness computing\s2\new folder\project asd\graphe.c
+	"GRAPHE.h"
+	<malloc.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1744487348 source:f:\bussiness computing\s2\new folder\project asd\liste.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"LISTE.h"
+
+1745280227 source:f:\bussiness computing\s2\new folder\project asd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ELTUSER.h"
+	"GRAPHE.h"
+	<windows.h>
+
+1744541739 source:f:\bussiness computing\s2\new folder\project asd\eltuser.c
+	<stdlib.h>
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	"ELTUSER.h"
+
+1745271363 f:\bussiness computing\s2\new folder\project asd\eltuser.h
+	"ELTUSERstruct.h"
+
+1745271482 f:\bussiness computing\s2\new folder\project asd\liste.h
+	"ELTUSER.h"
+
+1745271482 f:\bussiness computing\s2\new folder\project asd\graphe.h
+	<stdio.h>
+	<stdlib.h>
+	"GRAPHEstruct.h"
+
+1744486454 source:f:\bussiness computing\s2\new folder\project asd\test_eltuser.c
+	"ELTUSER.h"
+	<assert.h>
+	<stdio.h>
+
+1745271363 f:\bussiness computing\s2\new folder\project asd\eltuserstruct.h
+
+1745271567 f:\bussiness computing\s2\new folder\project asd\graphestruct.h
+	"ELTUSER.h"
+
